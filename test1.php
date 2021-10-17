@@ -3,6 +3,7 @@ echo 'Hello World';
 
 $data=100; /*variable declaration*/
 echo $data;
+
 $stringName="<br></br>CSE,IIUC";
 echo $stringName;
 
